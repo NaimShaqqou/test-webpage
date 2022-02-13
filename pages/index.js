@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Naim Welcomes You to this Page" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          He will be using this page as a learning experience. Come back later to see any changes.
         </p>
       </main>
 
