@@ -13,7 +13,8 @@ export default function Home() {
       <main>
         <Header title="Naim Welcomes You to this Page" />
         <p className="description">
-          He will be using this page as a learning experience. Come back later to see any changes.
+          He will be using this page as a learning experience. Come back later to see any changes.</br>
+          (if you are seeing this text, I goofed up a bit lol)
         </p>
       </main>
 
